@@ -1,0 +1,9 @@
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Data\bin\Debug\netstandard2.0\Flex.Data.deps.json
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Data\bin\Debug\netstandard2.0\Flex.Data.dll
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Data\bin\Debug\netstandard2.0\Flex.Data.pdb
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Data\obj\Debug\netstandard2.0\Flex.Data.csprojAssemblyReference.cache
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Data\obj\Debug\netstandard2.0\Flex.Data.csproj.CoreCompileInputs.cache
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Data\obj\Debug\netstandard2.0\Flex.Data.AssemblyInfoInputs.cache
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Data\obj\Debug\netstandard2.0\Flex.Data.AssemblyInfo.cs
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Data\obj\Debug\netstandard2.0\Flex.Data.dll
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Data\obj\Debug\netstandard2.0\Flex.Data.pdb

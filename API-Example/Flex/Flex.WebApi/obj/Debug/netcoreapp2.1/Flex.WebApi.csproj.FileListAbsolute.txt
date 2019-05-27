@@ -1,0 +1,15 @@
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\obj\Debug\netcoreapp2.1\Flex.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\obj\Debug\netcoreapp2.1\Flex.WebApi.AssemblyInfoInputs.cache
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\obj\Debug\netcoreapp2.1\Flex.WebApi.AssemblyInfo.cs
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\bin\Debug\netcoreapp2.1\Flex.WebApi.deps.json
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\bin\Debug\netcoreapp2.1\Flex.WebApi.runtimeconfig.json
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\bin\Debug\netcoreapp2.1\Flex.WebApi.runtimeconfig.dev.json
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\bin\Debug\netcoreapp2.1\Flex.WebApi.dll
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\bin\Debug\netcoreapp2.1\Flex.WebApi.pdb
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\obj\Debug\netcoreapp2.1\Flex.WebApi.csprojAssemblyReference.cache
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\obj\Debug\netcoreapp2.1\Flex.WebApi.RazorAssemblyInfo.cache
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\obj\Debug\netcoreapp2.1\Flex.WebApi.RazorAssemblyInfo.cs
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\obj\Debug\netcoreapp2.1\Flex.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\obj\Debug\netcoreapp2.1\Flex.WebApi.dll
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.WebApi\obj\Debug\netcoreapp2.1\Flex.WebApi.pdb

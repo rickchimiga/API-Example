@@ -1,0 +1,9 @@
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Domain\bin\Debug\netstandard2.0\Flex.Domain.deps.json
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Domain\bin\Debug\netstandard2.0\Flex.Domain.dll
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Domain\bin\Debug\netstandard2.0\Flex.Domain.pdb
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Domain\obj\Debug\netstandard2.0\Flex.Domain.csprojAssemblyReference.cache
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Domain\obj\Debug\netstandard2.0\Flex.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Domain\obj\Debug\netstandard2.0\Flex.Domain.AssemblyInfoInputs.cache
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Domain\obj\Debug\netstandard2.0\Flex.Domain.AssemblyInfo.cs
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Domain\obj\Debug\netstandard2.0\Flex.Domain.dll
+C:\Users\mayko\source\repos\API-Example\Flex\Flex.Domain\obj\Debug\netstandard2.0\Flex.Domain.pdb
